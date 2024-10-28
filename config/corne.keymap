@@ -4,7 +4,7 @@
 /* map Zen's extra keys */
 #define X_LT  &kp TAB       // top row, left
 #define X_LM  &kp ESC       // middle row, left
-#define X_LB  &mo UC        // bottom row, left
+#define X_LB  &mo SS        // bottom row, left
 #define X_LH  &kp DEL       // thumb row, left
 #define X_RT  &kp MINUS     // top row, right
 #define X_RM  &kp APOS      // middle row, right
