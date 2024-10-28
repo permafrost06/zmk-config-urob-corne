@@ -14,7 +14,7 @@
 #define CONFIG_WIRELESS 1
 
 /* source the main keymap */
-#include "base.keymap"
+#include "base-qwerty.keymap"
 
 /* use 5-column layout for Zen */
 //ZMK_APPLY_MATRIX_TRANSFORM(five_column_transform)
