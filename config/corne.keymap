@@ -11,7 +11,7 @@
 #define X_RB  &kp EQUAL     // bottom row, right
 #define X_RH  &kp BSPC      // thumb row, right
 /* activate bluetooth */
-#define CONFIG_WIRELESS 1
+#define CONFIG_WIRELESS
 
 /* source the main keymap */
 #include "base-qwerty.keymap"
